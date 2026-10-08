@@ -1,4 +1,4 @@
-# MAD_24172022034_Practical4 — Alarm using Foreground Service (Kotlin)
+# MAD_24012011182_Practical4 — Alarm using Foreground Service (Kotlin)
 
 A basic Android application that allows you to select a time for an alarm. When the alarm goes off, a foreground service is launched, displays a high-importance notification, and continuously plays an alarm tone until you stop it.
 
